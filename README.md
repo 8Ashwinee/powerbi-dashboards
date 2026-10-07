@@ -1,48 +1,396 @@
-# Blinkit Analytics Dashboard
+# 🎓 EdTech Analytics Dashboard — Power BI
 
-This repository contains a data analytics dashboard for **Blinkit – India’s Last Minute App**.  
-The dashboard provides insights into outlet performance, sales distribution, product categories, and customer ratings.
+> **Turning online-learning data into insights that actually make sense.**
 
----
+An interactive **Power BI dashboard for analyzing the EdTech / online-course ecosystem**, designed to explore course categories, learner preferences, languages, course types, subtitles, and viewer engagement.
 
-##  Key Metrics
-- **Total Sales:** $1.20M  
-- **Average Sales:** 140.99  
-- **Number of Items/Transactions:** ~9K  
-- **Average Rating:** 3.92  
+This project transforms raw course data into an immersive visual analytics experience that helps answer a simple question:
+
+**What are learners actually watching, and what patterns can we discover from their behavior?**
 
 ---
 
-## Visualizations
-- **Outlet Establishment Trend (2012–2022):** Line chart showing growth in sales from $0.1M to $3.0M.  
-- **Outlet Size Distribution:** Donut chart with Tier 1, Tier 2, Tier 3 proportions.  
-- **Outlet Location Performance:** Bar chart comparing Tier 1, Tier 2, Tier 3 sales.  
-- **Fat Content Analysis:** Donut + bar chart showing Low Fat vs Regular product sales.  
-- **Item Type Breakdown:** Bar chart across categories (Fruit, Snacks, Household, Frozen, Dairy, Canned, Baking, Meat, Soft Drinks, Bread, Others).  
+## ✨ Dashboard Preview
+
+<p align="center">
+  <img src="dashboard-preview.png" alt="EdTech Power BI Dashboard" width="100%">
+</p>
+
+> 💡 Replace `dashboard-preview.png` with a screenshot exported from your Power BI dashboard.
 
 ---
 
-##  Outlet Type Table
-| Outlet Type          | Total Sales | Items | Avg Sales | Avg Rating | Visibility |
-|----------------------|-------------|-------|-----------|------------|------------|
-| Grocery Store        | $151.94K    | 1083  | 140.29    | 3.93       | 113        |
-| Supermarket Type1    | $787.55K    | 5577  | 141.21    | 3.92       | 338        |
-| Supermarket Type2    | $131.48K    | 928   | 141.68    | 3.93       | 56         |
-| Supermarket Type3    | $130.71K    | 935   | 139.80    | 3.91       | 54         |
+## 🚀 What This Dashboard Explores
+
+The dashboard provides an interactive view of the online-learning landscape through multiple dimensions:
+
+| 🔍 Analysis Area      | 📊 What It Shows                                |
+| --------------------- | ----------------------------------------------- |
+| 📚 Course Categories  | Distribution of courses across major categories |
+| 🧩 Sub-Categories     | Detailed breakdown of course domains            |
+| 🎥 Course Types       | Comparison of different course formats          |
+| 🌎 Languages          | Language distribution across courses            |
+| 👀 Viewers            | Learner/viewer engagement patterns              |
+| 💬 Subtitle Languages | Availability and distribution of subtitles      |
+| 🏆 Category Ranking   | Ranking categories based on views               |
+| 📈 Engagement Trends  | Viewer patterns across subtitle languages       |
 
 ---
 
-##  File Contents
-- **Dashboard Screenshot:** PNG file showing the full analytics dashboard.  
-- **Data Source:** Outlet-level sales, ratings, and product attributes.  
-- **Visualizations:** Charts for outlet establishment, size, location, fat content, and item type.  
-- **Summary Table:** Outlet type comparison with sales, items, ratings, and visibility metrics.  
+## 🎯 Key Dashboard Features
+
+### 🎛️ Interactive Filtering
+
+Users can dynamically explore the dataset using filters such as:
+
+* Course Category
+* Language
+* Sub-Category
+* Course Type
+* Other available dashboard dimensions
+
+Instead of looking at one static report, the dashboard allows users to **interact with the data and discover their own insights**.
 
 ---
 
-##  Usage
-This dashboard can be used to:
-- Identify high-performing outlet types and locations.  
-- Compare product categories and fat content preferences.  
-- Track sales growth trends over time.  
-- Support decision-making for inventory and marketing strategies.  
+### 📊 Course Type Analysis
+
+The dashboard compares different course types to understand:
+
+> **Which formats dominate the EdTech ecosystem?**
+
+This makes it easier to identify the most common types of online learning content.
+
+---
+
+### 🗂️ Sub-Category Analysis
+
+Course sub-categories provide a deeper look into the subjects learners are consuming.
+
+This helps identify:
+
+* Popular learning domains
+* Distribution of courses
+* Areas with strong learner interest
+* Differences between broader categories
+
+---
+
+### 🌎 Language Insights
+
+Language plays an important role in accessibility.
+
+The dashboard analyzes course languages to understand:
+
+> **Which languages are most represented in online education?**
+
+This can help reveal opportunities for expanding educational content into underserved language markets.
+
+---
+
+### 👀 Viewer & Engagement Analysis
+
+One of the most important parts of the dashboard is understanding **viewer behavior**.
+
+The report uses viewer-related metrics to explore:
+
+* Course popularity
+* Viewer distribution
+* Category performance
+* Engagement patterns
+
+This transforms the dashboard from simple course counting into a more meaningful **learner-engagement analysis**.
+
+---
+
+### 💬 Subtitle Language Analysis
+
+Subtitle availability can significantly improve accessibility for learners around the world.
+
+The dashboard visualizes subtitle-language information to identify:
+
+* Most common subtitle languages
+* Language accessibility patterns
+* Relationship between subtitles and viewers
+
+---
+
+### 🏆 Category Ranking
+
+The dashboard also incorporates ranking logic to identify categories based on their view performance.
+
+This makes it easier to quickly answer:
+
+> **Which categories are performing best in terms of views?**
+
+---
+
+## 🧠 Business Questions Answered
+
+This dashboard can help answer questions such as:
+
+**1. Which course categories are most popular?**
+
+**2. Which sub-categories contain the largest number of courses?**
+
+**3. Which course types dominate the platform?**
+
+**4. Which languages are most commonly used for courses?**
+
+**5. Which categories receive the highest viewer engagement?**
+
+**6. What subtitle languages are most prevalent?**
+
+**7. How does viewer engagement vary across subtitle languages?**
+
+**8. Which categories rank highest based on views?**
+
+---
+
+# 🛠️ Tools & Technologies
+
+### 📊 Microsoft Power BI
+
+Used for:
+
+* Data visualization
+* Interactive dashboard development
+* Filtering and slicing
+* Data exploration
+* KPI and ranking analysis
+* Report design
+
+### 🧮 DAX
+
+Used for creating analytical calculations and measures such as:
+
+* Rankings
+* Aggregations
+* Category-level analysis
+* Viewer-related metrics
+
+### 🗃️ Dataset
+
+The dashboard is built around **online-course / EdTech data**, containing information related to:
+
+* Courses
+* Categories
+* Sub-categories
+* Languages
+* Course types
+* Viewers
+* Subtitle languages
+
+---
+
+# 🎨 Dashboard Design Philosophy
+
+The dashboard was designed around three principles:
+
+### 01 — Clarity
+
+Important information should be understandable at a glance.
+
+### 02 — Interaction
+
+Users should be able to explore the data rather than simply read it.
+
+### 03 — Storytelling
+
+Every visual should contribute to understanding the EdTech ecosystem.
+
+> **The goal isn't to create more charts.
+> The goal is to make the data tell a story.**
+
+---
+
+# 📐 Dashboard Structure
+
+The report combines multiple Power BI visuals, including:
+
+* 🎛️ Slicers
+* 📊 Bar charts
+* 📈 Column charts
+* 🥧 Pie charts
+* 📉 Line charts
+* 🏆 Ranking tables
+* 🔘 Interactive buttons
+
+This creates a single analytical workspace where users can move from **high-level overview → detailed exploration → performance analysis**.
+
+---
+
+# 🔄 Analytical Flow
+
+```text
+                 ┌──────────────────────┐
+                 │    ONLINE COURSE     │
+                 │        DATA          │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │   DATA EXPLORATION   │
+                 └──────────┬───────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+        📚 Category      🌎 Language    🎥 Course Type
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                 ┌──────────────────────┐
+                 │   VIEWER ANALYSIS    │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │ CATEGORY RANKING &  │
+                 │ ENGAGEMENT INSIGHTS │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │  ACTIONABLE INSIGHT  │
+                 └──────────────────────┘
+```
+
+---
+
+# 📂 Project Structure
+
+```text
+EdTech-PowerBI-Dashboard/
+│
+├── 📊 EdTech_Dashboard.pbix
+├── 🖼️ dashboard-preview.png
+└── 📄 README.md
+```
+
+---
+
+# ▶️ How to Use
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/EdTech-PowerBI-Dashboard.git
+```
+
+### 2. Open the Power BI file
+
+Open:
+
+```text
+EdTech_Dashboard.pbix
+```
+
+using **Microsoft Power BI Desktop**.
+
+### 3. Explore the dashboard
+
+Use the available slicers and visuals to interact with:
+
+* Categories
+* Languages
+* Sub-categories
+* Course types
+* Viewer metrics
+* Subtitle languages
+* Rankings
+
+---
+
+# 💡 Example Insights You Can Discover
+
+Depending on the selected filters, the dashboard can help uncover patterns such as:
+
+> 📚 **Which learning categories attract the most attention?**
+
+> 🌎 **Which languages dominate online course content?**
+
+> 🎥 **Which course formats are most widely represented?**
+
+> 👀 **Which categories generate the highest viewer engagement?**
+
+> 💬 **How accessible is online education across different subtitle languages?**
+
+These insights can be useful for **EdTech platforms, content creators, educators, and data analysts**.
+
+---
+
+# 🎓 Skills Demonstrated
+
+This project demonstrates practical experience with:
+
+* Power BI
+* Data visualization
+* Dashboard design
+* Data storytelling
+* Interactive reporting
+* DAX
+* KPI analysis
+* Ranking analysis
+* Categorical analysis
+* Viewer engagement analysis
+* Business intelligence
+
+---
+
+# 🌟 Why This Project?
+
+Online education generates enormous amounts of data.
+
+But raw data alone doesn't tell a story.
+
+This project demonstrates how data can be transformed into an **interactive analytical experience** that makes complex EdTech information easier to understand.
+
+> **From courses → to data → to insights.**
+
+---
+
+# 🔮 Future Improvements
+
+Potential enhancements include:
+
+* 📅 Time-based trend analysis
+* 👤 Learner segmentation
+* ⭐ Course rating analysis
+* 💰 Revenue / pricing analysis
+* 🏆 Top-course leaderboard
+* 🌍 Geographic learner analysis
+* 🤖 Predictive learner-engagement analysis
+* 📱 Mobile-optimized dashboard
+* ☁️ Power BI Service deployment
+
+---
+
+# 👩‍💻 Author
+
+**Ashwinee Siyane**
+
+📊 Data Analytics & Business Intelligence
+🤖 Exploring Machine Learning & Data Science
+💻 Open Source Contributor
+
+---
+
+## ⭐ If You Like This Project
+
+If you found this dashboard interesting:
+
+⭐ **Star the repository**
+🍴 **Fork the project**
+💡 **Share your feedback**
+🤝 **Connect and collaborate**
+
+---
+
+<p align="center">
+
+### 📊 Data → Visualization → Insight → Decision
+
+**Built with Power BI ❤️**
+
+</p>
+
