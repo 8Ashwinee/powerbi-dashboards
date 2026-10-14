@@ -135,59 +135,6 @@ Get started in just a few steps:
 
 ---
 
-## 🎯 Who Is This Repository For?
-
-👨‍🎓 **Students:** Learn Power BI and practice data visualization with example projects.
-
-📊 **Aspiring Data Analysts:** Develop practical skills in reporting, KPI analysis, and business intelligence.
-
-💼 **Professionals:** Explore dashboard ideas and reporting approaches that may inspire your own work.
-
-🧠 **Data Enthusiasts:** Experiment with datasets, discover trends, and build data-driven solutions.
-
-🌍 **Open-Source Contributors:** Help improve documentation, add datasets, suggest dashboard ideas, and share useful analytical projects.
-
----
-
-## 🤝 Contributions Are Welcome!
-
-Have an interesting dataset, a creative dashboard idea, or an improvement to suggest? Contributions are welcome!
-
-You can contribute by:
-
-* 📊 Adding a new Power BI dashboard.
-* 📁 Sharing a suitable sample Excel or CSV dataset.
-* 📝 Writing a clear project requirement document.
-* 🎯 Proposing a meaningful real-world problem statement.
-* 💡 Documenting insights and analytical findings.
-* 🐛 Fixing errors or improving existing documentation.
-* 🎨 Improving dashboard usability, accessibility, and visual design.
-
-### Contribution Workflow
-
-1. Fork this repository.
-2. Create a new branch for your contribution.
-3. Add your dashboard, dataset, or documentation.
-4. Check that files are organized and instructions are clear.
-5. Submit a pull request explaining your contribution.
-
-**Please ensure that datasets are legally shareable and do not contain confidential or personal information.** Clearly label synthetic or sample data where appropriate.
-
----
-
-## 🗺️ Future Goals
-
-The vision is to grow this repository into a useful collection of practical Power BI projects featuring:
-
-* 📊 More interactive business intelligence dashboards.
-* 🏢 Real-world business case studies and analytical problem statements.
-* 📁 Well-documented sample datasets in Excel and CSV formats.
-* 📖 Consistent project requirements and documentation.
-* 💡 Insights, findings, and recommendations for each project.
-* 🎨 Creative visual designs and improved dashboard usability.
-* 🌱 More opportunities for learning and open-source collaboration.
-
----
 
 <div align="center">
 
