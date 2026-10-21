@@ -1,0 +1,123 @@
+CustomerID,FirstName,LastName,Age,Gender,City,Region
+1,Danielle,Smith,56,Female,Port Melindaburgh,North
+2,Angel,Le,46,Female,Tuckerborough,East
+3,Joshua,Maldonado,32,Male,Barreraburgh,South
+4,Jeffrey,Herrera,60,Male,Smithfurt,North
+5,Jill,Adams,25,Male,Saramouth,North
+6,Erica,Davidson,38,Male,Rodneyside,North
+,,,,,,
+,,,,,,
+7,Patricia,Rodriguez,56,Female,Mooreport,East
+8,Christopher,Graham,36,Male,North Beth,South
+9,Robert,Chavez,40,Male,Lake Leeton,North
+10,Anthony,Mckay,28,Male,Shawhaven,West
+11,Jeffery,Liu,28,Male,North Susan,North
+12,William,Baker,41,Male,Port Jacobland,North
+13,Anthony,Mason,53,Female,South David,East
+14,James,White,57,Male,New Brooke,East
+,,,,,,
+15,Debra,Gaines,41,Female,South Dianeshire,South
+16,Amy,Harrell,20,Male,Sarahborough,West
+17,Jeffrey,Evans,39,Female,Johnfurt,East
+,,,,,,
+18,Bridget,Fowler,19,Male,Lake Debbie,North
+19,Lisa,Lynch,41,Male,Stewartland,South
+20,Adam,Hernandez,61,Female,South Christineshire,North
+,,,,,,
+21,Linda,Farmer,47,Female,North Amandahaven,North
+22,Helen,Ryan,55,Female,Davidstad,East
+23,Matthew,Osborne,19,Male,East Mikeburgh,South
+24,Eric,Moreno,38,Female,Bassport,West
+,,,,,,
+,,,,,,
+25,Susan,Smith,50,Male,Lake Lisaport,West
+26,Matthew,Nguyen,29,Male,East Josephville,East
+27,Christopher,Smith,39,Female,West Juan,East
+28,Colin,Hickman,61,Female,Lake Matthew,South
+29,Melanie,Koch,42,Male,Williamview,West
+30,Cassandra,Decker,44,Male,North Cynthiaview,West
+31,Lindsay,Parker,59,Female,North Matthewberg,West
+32,Jessica,Brown,45,Female,Evanmouth,North
+33,Amanda,Humphrey,33,Female,Hoffmanville,West
+34,Teresa,Arroyo,32,Male,Lake Rebeccaside,North
+35,Nicholas,Miller,64,Male,Port Mikeside,South
+36,Andrea,Tucker,61,Male,South David,North
+37,Maria,Jones,20,Male,Michaelton,South
+38,Christine,Hodges,54,Male,Jasonbury,West
+39,Michelle,Cannon,24,Male,West Kimberlychester,West
+40,Barbara,Anderson,38,Female,East Michelle,South
+41,Janet,Alvarez,26,Male,South Angel,East
+42,Brandon,Pierce,56,Male,Kimberlychester,South
+43,Jeremy,Baker,35,Male,West Erik,East
+44,Keith,Brennan,21,Female,South Monicafort,North
+45,Christopher,Henderson,42,Male,East Lisa,North
+46,Jesse,Lewis,31,Male,Baileybury,North
+47,Craig,Ryan,26,Female,North Donna,West
+48,Joshua,Blair,43,Male,Murphyland,North
+49,Cynthia,Harris,19,Male,Michaelhaven,East
+50,Michael,Collins,37,Male,Frazierside,North
+51,Mitchell,Carney,45,Male,Sheilaville,South
+52,Jason,Santos,64,Male,Gregoryview,South
+53,Joseph,Kim,24,Female,North Candacestad,West
+54,Sharon,Holmes,61,Female,Samuelhaven,South
+55,Deborah,Martinez,25,Female,South Rachelborough,East
+56,Chelsea,Walker,64,Male,Bradleychester,North
+57,George,Morgan,52,Male,New Saraside,West
+58,Jessica,Chapman,31,Male,West Ryan,North
+59,Frank,Hall,34,Female,Cindyville,North
+60,Noah,Robinson,53,Male,Williamchester,East
+61,Veronica,Jones,57,Male,Richardport,South
+62,Danielle,Welch,21,Female,East Robert,South
+63,Angela,Perez,19,Male,Byrdburgh,North
+64,Gabrielle,Whitehead,23,Female,Richardtown,West
+65,Megan,Heath,59,Female,Justinchester,South
+66,Kimberly,Jones,21,Female,Stevenmouth,West
+67,Jeremy,Young,46,Male,New Thomas,South
+68,Antonio,Caldwell,35,Male,Lake Christopher,West
+69,Leslie,Lewis,43,Male,Clarencebury,East
+70,Joseph,Anderson,61,Male,Jeffreyborough,West
+71,Jason,Walls,51,Male,North Brandon,East
+72,Sherri,Duncan,27,Male,Carrland,East
+73,Nancy,Kennedy,53,Male,Perryshire,West
+74,Leonard,Mueller,31,Female,Lake Heather,East
+75,Diana,Aguirre,48,Male,Rossberg,North
+76,Randall,Lee,32,Female,Port Michelleville,East
+77,Robin,Davis,25,Male,Robinsonhaven,South
+78,Stephen,Jordan,31,Male,Williamsbury,West
+79,Joseph,Henderson,40,Male,South Dennismouth,North
+80,John,Owens,57,Female,Stephaniemouth,West
+81,Anna,Daniel,38,Female,Rivasside,South
+82,Jose,Nunez,33,Female,Merrittfort,South
+83,Brenda,Joyce,62,Female,Greenbury,South
+84,Rachael,Garcia,35,Male,Katiehaven,East
+85,Reginald,Powell,64,Female,Simsview,East
+86,Jeffrey,Morgan,41,Male,Jonesport,West
+87,Whitney,Hensley,43,Male,West Matthew,West
+88,William,Wright,42,Female,East Edwardfurt,North
+89,Christopher,Lee,62,Female,Lake Jason,North
+90,Brandon,West,58,Female,Russellside,West
+91,Daniel,Henderson,46,Female,Perryborough,East
+92,Courtney,Ramirez,32,Female,Priceshire,South
+93,Laura,Wright,62,Female,Port Nicoleshire,West
+94,Robert,Leblanc,18,Female,Woodsstad,North
+95,Bryan,Ramos,42,Female,Karenchester,East
+96,Patrick,Callahan,24,Male,South Jeffrey,West
+97,Wendy,Pierce,26,Female,Tuckerfurt,West
+98,Allison,Williams,41,Female,Elizabethfurt,East
+99,Tasha,Kidd,18,Male,Port Tanner,West
+100,Michelle,Huff,61,Female,New Amanda,East
+84,Rachael,Garcia,35,Male,Katiehaven,East
+85,Reginald,Powell,64,Female,Simsview,East
+86,Jeffrey,Morgan,41,Male,Jonesport,West
+87,Whitney,Hensley,43,Male,West Matthew,West
+88,William,Wright,42,Female,East Edwardfurt,North
+89,Christopher,Lee,62,Female,Lake Jason,North
+90,Brandon,West,58,Female,Russellside,West
+40,Barbara,Anderson,38,Female,East Michelle,South
+41,Janet,Alvarez,26,Male,South Angel,East
+42,Brandon,Pierce,56,Male,Kimberlychester,South
+43,Jeremy,Baker,35,Male,West Erik,East
+44,Keith,Brennan,21,Female,South Monicafort,North
+90,Brandon,West,58,,Russellside,West
+91,,Henderson,46,,Perryborough,East
+92,Courtney,Ramirez,32,Female,Priceshire,South
