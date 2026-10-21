@@ -1,0 +1,8 @@
+# Treat Power BI files as binary
+*.pbix binary
+*.pbit binary
+*.png binary
+*.jpg binary
+
+# Normalise docs
+*.md text eol=lf
